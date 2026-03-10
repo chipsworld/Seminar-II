@@ -4,7 +4,7 @@
 
 03/03 請假
 
-03/10 [智慧系統設計與應用]()
+03/10 [智慧系統設計與應用](https://github.com/chipsworld/Seminar-II/blob/main/0310/0310.pdf)
 
 03/17 []()
 
