@@ -6,7 +6,7 @@
 
 03/10 [智慧系統設計與應用](https://github.com/chipsworld/Seminar-II/blob/main/0310/0310.pdf)
 
-03/17 []()
+03/17 [The Development and Applications of BioImpedance Technology(生醫電阻抗之發展與應用)]()
 
 03/31 [如何打造台版 Edge Impulse TinyML 開發平台]()
 
