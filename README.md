@@ -8,7 +8,7 @@
 
 03/17 [The Development and Applications of BioImpedance Technology(生醫電阻抗之發展與應用)](https://github.com/chipsworld/Seminar-II/blob/main/0317/0317.pdf)
 
-03/31 [如何打造台版 Edge Impulse TinyML 開發平台]()
+03/31 [如何打造台版 Edge Impulse TinyML 開發平台](https://github.com/chipsworld/Seminar-II/blob/main/0331/0331.pdf)
 
 04/07 [群測感知技術與應用Crowdsensing Techniques and Applications]()
 
