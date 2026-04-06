@@ -22,4 +22,4 @@
 
 
 ## 書面報告
-03/31 [如何打造台版 Edge Impulse TinyML 開發平台]([https://github.com/chipsworld/Seminar-II/blob/main/0331/0331.pdf](https://github.com/chipsworld/Seminar-II/blob/main/0331/%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.pdf))
+03/31 [如何打造台版 Edge Impulse TinyML 開發平台](https://github.com/chipsworld/Seminar-II/blob/main/0331/%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.pdf)
