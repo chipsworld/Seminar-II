@@ -12,7 +12,7 @@
 
 04/21 調時間
 
-04/28 [公假A Lightweight-Embedded Open-Set Speaker Identification System Based on Meta Learning]()
+04/28 公假[A Lightweight-Embedded Open-Set Speaker Identification System Based on Meta Learning]()
 
 05/05 [群測感知技術與應用Crowdsensing Techniques and Applications]()
 
