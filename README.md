@@ -10,9 +10,9 @@
 
 03/31 [如何打造台版 Edge Impulse TinyML 開發平台](https://github.com/chipsworld/Seminar-II/blob/main/0331/0331.pdf)
 
-04/21 調時間
+04/21 公假
 
-04/28 公假[A Lightweight-Embedded Open-Set Speaker Identification System Based on Meta Learning]()
+04/28 [具冒充者與欺騙攻擊偵測之語音辨識]()
 
 05/05 [群測感知技術與應用Crowdsensing Techniques and Applications]()
 
