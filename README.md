@@ -12,7 +12,7 @@
 
 04/21 公假
 
-04/28 [具冒充者與欺騙攻擊偵測之語音辨識]()
+04/28 [具冒充者與欺騙攻擊偵測之語音辨識](https://github.com/chipsworld/Seminar-II/blob/main/0428/0428.pdf)
 
 05/05 [群測感知技術與應用Crowdsensing Techniques and Applications]()
 
