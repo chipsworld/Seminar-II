@@ -16,7 +16,7 @@
 
 05/05 [群測感知技術與應用Crowdsensing Techniques and Applications](https://github.com/chipsworld/Seminar-II/blob/main/0505/0505.pdf)
 
-05/12 [綠色科技與光電元件之發展應用]()
+05/12 [綠色科技與光電元件之發展應用](https://github.com/chipsworld/Seminar-II/blob/main/0512.pdf)
 
 05/26 [物聯網技術應用]()
 
