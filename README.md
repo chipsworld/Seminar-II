@@ -24,4 +24,4 @@
 ## 書面報告
 03/31 [如何打造台版 Edge Impulse TinyML 開發平台](https://github.com/chipsworld/Seminar-II/blob/main/0331/%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.pdf)
 
-03/31 [AI 影像科技在睡眠檢測的應用](https://github.com/chipsworld/Seminar-II/blob/main/0526/%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.pdf)
+05/26 [AI 影像科技在睡眠檢測的應用](https://github.com/chipsworld/Seminar-II/blob/main/0526/%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.pdf)
