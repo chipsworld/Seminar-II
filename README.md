@@ -18,10 +18,10 @@
 
 05/12 [綠色科技與光電元件之發展應用](https://github.com/chipsworld/Seminar-II/blob/main/0512.pdf)
 
-05/26 [AI 影像科技在睡眠檢測的應用]()
+05/26 [AI 影像科技在睡眠檢測的應用](https://github.com/chipsworld/Seminar-II/blob/main/0526/%E6%97%A5%E6%9C%9F.pdf)
 
 
 ## 書面報告
-03/31 [如何打造台版 Edge Impulse TinyML 開發平台](https://github.com/chipsworld/Seminar-II/blob/main/0526/%E6%97%A5%E6%9C%9F.pdf)
+03/31 [如何打造台版 Edge Impulse TinyML 開發平台](https://github.com/chipsworld/Seminar-II/blob/main/0331/%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.pdf)
 
 03/31 [AI 影像科技在睡眠檢測的應用](https://github.com/chipsworld/Seminar-II/blob/main/0526/%E6%9B%B8%E9%9D%A2%E5%A0%B1%E5%91%8A.pdf)
